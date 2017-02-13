@@ -1,4 +1,4 @@
-# Java-texteditor
+# Java-texteditor App
 This is text editor desktop application developed purely by java. this application is developed using javaFX packages of JDK. It is a basic text editor which allows user to type details and save it at desired location with desired  file formats. It also allows user to open a already saved file in this editor window. This app also has a menu bar wich allows user to save/saveAs files , find and replace desired characters of the text. The menubar also provides options to change font size as per users requirements 
 >> Installation / Execution steps:
 
